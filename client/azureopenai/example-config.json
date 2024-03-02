@@ -1,0 +1,6 @@
+{
+  "azure_oai_key": "", // Open AI Service key 
+  "azure_oai_endpoint": "", // Open AI Service endpoint https://SOMETHING.openai.azure.com/
+  "azure_oai_deployment_name": "", // Deployment name that you gave for your model
+  "azure_oai_api_version": "2023-03-15-preview" // API version that your model uses (open model deployment to see it)
+}
